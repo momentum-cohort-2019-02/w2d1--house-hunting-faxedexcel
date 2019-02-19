@@ -30,3 +30,10 @@ print("Number of months:", number_of_months)
 # Enter the cost of your dream home: 500000
 # Enter the percent of your home's cost to save as a down payment [0.25]: .2
 # Number of months: 84
+
+# Enter your annual salary: 80000
+# Enter the percent of your salary to save, as a decimal: .15
+# Enter the expected annual rate of return [0.04]: 
+# Enter the cost of your dream home: 500000
+# Enter the percent of your home's cost to save as a down payment [0.25]: 
+# Number of months: 105
